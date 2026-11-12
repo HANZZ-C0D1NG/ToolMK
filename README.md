@@ -5,12 +5,12 @@ Tools untuk mempermudah mengerjakan matematika.
 1.0.0
 
 ## Fitur
--Menu utama:
- -Kalkulator:
-  -Penjumlahan
-  -Pengurangan
-  -Perkalian
-  -Pembagian
+- Menu utama:
+ - Kalkulator:
+  - Penjumlahan
+  - Pengurangan
+  - Perkalian
+  - Pembagian
 
 ## Bahasa
 Python
